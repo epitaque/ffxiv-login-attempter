@@ -5,3 +5,6 @@
 2. Edit relogin.py, changing the value of `ffxiv_executable` to the path of your XIVLauncher executable.
 2. Double click `run.bat`.
 3. FFXIV should launch automatically and enter the queue. If it doesn't, you may need to tweak something.
+
+## Disclaimer
+Probably won't work on a 1080p monitor unless you adjust the `offsetY` on line 89
