@@ -7,4 +7,4 @@
 3. FFXIV should launch automatically and enter the queue. If it doesn't, you may need to tweak something.
 
 ## Disclaimer
-Probably won't work on a 1080p monitor unless you adjust the `offsetY` on line 89
+Probably won't work on a 1080p monitor unless you adjust the `offsetY` on line 89, and it won't work when you're tabbed out of ffxiv.
