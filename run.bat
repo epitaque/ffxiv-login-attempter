@@ -1,2 +1,2 @@
-pip install pyautogui opencv-python Pillow
+pip install pyautogui opencv-python Pillow psutil
 python relogin.py
